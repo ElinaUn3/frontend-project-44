@@ -17,8 +17,13 @@ The games are:
 - cd (the required repository)
 - playing
 **asciinema of each step**
+## Parity check
 https://asciinema.org/a/GOB8iy22GHsF8aZD3GkUjovwL
+##
 https://asciinema.org/a/3TmGe2vwp0EqDnFe9Ri28XRH9
+##
 https://asciinema.org/a/PR5R4Sj5yrmTOV4mDI0MFOaLY
+##
 https://asciinema.org/a/jkXDomaa2FYvq1at1Odt1RIAr
+##
 https://asciinema.org/a/u7zJVTVPdYnIg1th6eJRRUCWc
